@@ -1,4 +1,4 @@
-# Note : The hosted site doesn't work anymore due to Google API Violation lol
+# Note : The hosted site doesn't work currently, working on it to get it back up.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
